@@ -13,6 +13,9 @@ Warrior Cravings is a web application that provides a chance to view the many di
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Landing Page
+
+Before logging in, every user will start at the landing page and see a summary of Warrior Cravings.
+
 * Login/Register
 
 ## Admin Profile

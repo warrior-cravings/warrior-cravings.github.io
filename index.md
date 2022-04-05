@@ -264,4 +264,4 @@ The workflow definition file is quite simple and is located at
 
 ## Team Contract & Members
 
-The Warrior Cravings contract can be found by veiwing the following link: https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit?usp=sharing. The web application is designed, implemented, and maintained by Christine Nakano, Jase Ishimi, Louie Bala, Mahie Crabbe, and Zachary Chaikin.
+The Warrior Cravings contract can be found by veiwing the following link: [https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit?usp=sharing]. The web application is designed, implemented, and maintained by Christine Nakano, Jase Ishimi, Louie Bala, Mahie Crabbe, and Zachary Chaikin.

@@ -26,5 +26,5 @@ It also provides code that implements a variety of useful design concepts, inclu
 
 ## Team Bonding and Team Contract
 
-Link to Team Bonding & Team Contract Document: https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#
+*Link to Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
 

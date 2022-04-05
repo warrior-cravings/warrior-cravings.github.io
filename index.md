@@ -13,22 +13,22 @@ Warrior Cravings is a web application that provides a chance to view the many di
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Landing Page
-* Login / Register
+* Login/Register
 
 ## Admin Profile
 * Add/Aprove Vendor
+* Archive/Delete Vendor
 * View Vendors
 
 ## User Profile Page
-*
-*
+* View Vendors
 
 ## Vendor Profile
 * Add Vender Page
 
 ## Today's Specials
+* View Menu Items Available Today
 
 ## Team Bonding and Team Contract
 
 * Link to Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
-

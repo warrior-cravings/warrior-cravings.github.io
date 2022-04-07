@@ -1,43 +1,108 @@
-## Table of contents
+# Table of contents
 
 * [Overview](#overview)
-* [Team Contract & Members](#team-bonding-and-team-contract)
+* [Warrior Cravings Documentation](#warrior-cravings-documentation)
+* [Development History](#development-history)
+* [Walkthrough videos](#walkthrough-videos)
+* [Team](#team-and-contract)
 
-## Overview
+# Overview
 
-Warrior Cravings is a web application that provides a chance to view the many different food choices on campus (Campus Center, Food Trucks, Paradise Palms, etc.). The following elements may be included in the web application: 
+Warrior Cravings is a web application that provides a chance to view the many different food choices on campus (Campus Center, Food Trucks, Paradise Palms, etc.). The following elements may be included in the web application:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+# Warrior Cravings Documentation
+
+The following section is guide of the many capabilities and features of Warrior Cravings!
+
 ## Landing Page
 
 Before logging in, every user will start at the landing page and see a summary of Warrior Cravings.
 
-## Login/Register
+[//]: # (![]&#40;images/landing-page.png&#41;)
 
-Login into your account or register as a user or vendor.
+## Sign in and Register
+
+Sign into your account or get a chance to register as either a User or Vendor to be a part of Warrior Cravings.
+
+[//]: # (![]&#40;images/signin-page.png&#41;)
+
+[//]: # (![]&#40;images/signup-page.png&#41;)
 
 ## Admin Profile
 
-The Admin profile has more features than the user or vendor, see the list below:
-* Add/Aprove Vendor
-* Archive/Delete Vendor
-* View Vendors
+In the Admin Profile, you have many different administrative features to help improve and maintain the application.
 
-## User Profile Page
-The User profile can browse through food options on campus, see the features below:
-* View Food Map
-* View Vendors List
-* View Today's Specials
+#### Add / Approve Vendor
+
+As an Admin, you can add/approve new Vendors to update the database as new food options become available.
+
+#### Archive / Delete Vendor
+
+Pending any circumstance where the Vendor and food option becomes unavailable, an Admin can archive or delete the Vendor from the database.
+
+#### View Vendors
+
+View the list of all Vendors, with an option to include/exlude archived Vendors.
+
+## User Profile
+
+In the User Profile, you are in a one-stop shop with different features to view the food options available.
+
+#### View Food Map
+
+Interact with a map of Campus containing all the different food options locations.
+
+#### View Vendors List
+
+View a list of all available Vendors and their menu items.
+
+#### View Today's Specials
+
+Get a chance to see the specials being served on campus today!
 
 ## Vendor Profile
-The Vendor Profile (need admin approval) allows new Vendors to be added to the list of Food options on campus, see the list of features below:
-* Add Vender Page
-* Edit Vendor Page
 
-## Team Members and Team Contract
+In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food to all the users.
 
-* Link to Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
+#### Add Vendor Page
+
+Add your menu items and locations to be added to the database so users can find and eat your food!
+
+#### Edit Vendors Page
+
+In the case of adding/removing menu items, you can easily edit your page to update your menu items for users to see.
+
+# Warrior Cravings Milestones
+
+Track our progress as we develop Warrior Cravings!
+
+## Milestone 1
+
+See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.com/warrior-cravings/warrior-cravings.github.io/projects/1):
+
+[//]: # (![]&#40;images/project-board-1.png&#41;)
+
+# Team and Contract
+
+Warrior Cravings is designed and developed by:
+
+[Christine Nakano](https://github.com/Cknakanog).
+
+[Jase Ishimi](https://github.com/ishimi8).
+
+[Louie Bala](https://github.com/Louie808).
+
+[Mahie Crabbe](https://github.com/mahi3crab).
+
+[Zachary Chaikin](https://github.com/zchaikin).
+
+The link to the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
+
+
+
+

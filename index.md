@@ -16,21 +16,27 @@ Warrior Cravings is a web application that provides a chance to view the many di
 
 Before logging in, every user will start at the landing page and see a summary of Warrior Cravings.
 
-* Login/Register
+## Login/Register
+
+Login into your account or register as a user or vendor.
 
 ## Admin Profile
+
+The Admin profile has more features than the user or vendor, see the list below:
 * Add/Aprove Vendor
 * Archive/Delete Vendor
 * View Vendors
 
 ## User Profile Page
-* View Vendors
+The User profile can browse through food options on campus, see the features below:
+* View Food Map
+* View Vendors List
+* View Today's Specials
 
 ## Vendor Profile
+The Vendor Profile (need admin approval) allows new Vendors to be added to the list of Food options on campus, see the list of features below:
 * Add Vender Page
-
-## Today's Specials
-* View Menu Items Available Today
+* Edit Vendor Page
 
 ## Team Bonding and Team Contract
 

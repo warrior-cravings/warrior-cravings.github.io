@@ -91,7 +91,7 @@ See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.c
 
 Warrior Cravings is designed and developed by:
 
-[Christine Nakano](https://github.com/Cknakanog).
+[Christine Nakano](https://github.com/Cknakano).
 
 [Jase Ishimi](https://github.com/ishimi8).
 
@@ -102,7 +102,3 @@ Warrior Cravings is designed and developed by:
 [Zachary Chaikin](https://github.com/zchaikin).
 
 The link to the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
-
-
-
-

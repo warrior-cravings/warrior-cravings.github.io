@@ -38,6 +38,6 @@ The Vendor Profile (need admin approval) allows new Vendors to be added to the l
 * Add Vender Page
 * Edit Vendor Page
 
-## Team Bonding and Team Contract
+## Team Members and Team Contract
 
 * Link to Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)

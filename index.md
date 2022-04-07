@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Overview](#overview)
-* [Warrior Cravings Documentation](#warrior-cravings-documentation)
-* [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Team](#team-and-contract)
+* [Documentation](#warrior-cravings-documentation)
+* [Milestones](#warrior-cravings-milestones)
+* [Team and Contract](#team-and-contract)
 
 # Overview
 

@@ -32,7 +32,7 @@ Sign into your account or get a chance to register as either a User or Vendor to
 
 [//]: # (![]&#40;images/signup-page.png&#41;)
 
-<img src=images/mockups/sign-signup_page.png>
+<img src="images/mockups/sign-signup_page.png">
 
 ## Admin Profile
 
@@ -54,21 +54,21 @@ View the list of all Vendors, with an option to include/exlude archived Vendors.
 
 In the User Profile, you are in a one-stop shop with different features to view the food options available.
 
-<img src=images/mockups/user-home_userpage.png>
+<img src="images/mockups/user-home_userpage.png">
 
-<img src=images/mockups/userprofile_userpage.png>
+<img src="images/mockups/userprofile_userpage.png">
 
 #### View Food Map
 
 Interact with a map of Campus containing all the different food options locations.
 
-<img src=images/mockups/map_userpage.png>
+<img src="images/mockups/map_userpage.png">
 
 #### View Vendors List
 
 View a list of all available Vendors and their menu items.
 
-<img src=images/mockups/vendors_userpage.png>
+<img src="images/mockups/vendors_userpage.png">
 
 #### View Today's Specials
 
@@ -82,9 +82,9 @@ In the Vendor Profile (upon approval of the Admin), you get a chance to expose a
 
 Add your menu items and locations to be added to the database so users can find and eat your food!
 
-<img src=images/mockups/vendor-home_verndorpage.png>
+<img src="images/mockups/vendor-home_verndorpage.png">
 
-<img src=images/mockups/form_vendorpage.png>
+<img src="images/mockups/form_vendorpage.png">
 
 #### Edit Vendors Page
 

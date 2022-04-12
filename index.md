@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Documentation](#warrior-cravings-documentation)
 * [Milestones](#warrior-cravings-milestones)
 * [Team and Contract](#team-and-contract)

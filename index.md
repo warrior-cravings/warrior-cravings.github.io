@@ -14,6 +14,10 @@ Warrior Cravings is a web application that provides a chance to view the many di
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+# Deployment
+The following link will connect you to our deployed application on Digital Ocean:
+[Warrior Cravings Application](http://164.92.94.176)
+
 # Warrior Cravings Documentation
 
 The following section is guide of the many capabilities and features of Warrior Cravings!

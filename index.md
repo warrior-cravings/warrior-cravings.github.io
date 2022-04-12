@@ -82,7 +82,7 @@ In the Vendor Profile (upon approval of the Admin), you get a chance to expose a
 
 Add your menu items and locations to be added to the database so users can find and eat your food!
 
-<img src="images/mockups/vendor-home_verndorpage.png">
+<img src="images/mockups/vendor-home_vendorpage.png">
 
 <img src="images/mockups/form_vendorpage.png">
 

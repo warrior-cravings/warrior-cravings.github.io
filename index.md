@@ -101,7 +101,7 @@ Track our progress as we develop Warrior Cravings!
 
 ## Milestone 1
 
-See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.com/warrior-cravings/warrior-cravings.github.io/projects/1):
+See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.com/warrior-cravings/warrior-cravings.github.io/projects/1)
 
 [//]: # (![]&#40;images/project-board-1.png&#41;)
 

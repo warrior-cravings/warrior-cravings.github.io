@@ -29,7 +29,7 @@ Before logging in, every user will start at the landing page and see a summary o
 
 [//]: # (![]&#40;images/landing-page.png&#41;)
 
-<img src="images/landingpageupdated.png">
+<img src="images/landingpageupdatedbig.png">
 
 ## Sign in and Register
 

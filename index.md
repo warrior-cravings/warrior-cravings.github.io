@@ -103,13 +103,13 @@ Track our progress as we develop Warrior Cravings!
 
 ## Milestone 1
 
-See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.com/warrior-cravings/warrior-cravings.github.io/projects/1)
+See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.com/warrior-cravings/warrior-cravings/projects/1)
 
 [//]: # (![]&#40;images/project-board-1.png&#41;)
 
 ## Milestone 2
 
-See Milestone 2 here [Warrior Cravings GitHub Project Board M2](https://github.com/warrior-cravings/warrior-cravings.github.io/projects/2)
+See Milestone 2 here [Warrior Cravings GitHub Project Board M2](https://github.com/warrior-cravings/warrior-cravings/projects/2)
 
 # Team and Contract
 

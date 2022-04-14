@@ -29,6 +29,8 @@ Before logging in, every user will start at the landing page and see a summary o
 
 [//]: # (![]&#40;images/landing-page.png&#41;)
 
+<img src="images/landingpageupdate.png">
+
 ## Sign in and Register
 
 Sign into your account or get a chance to register as either a User or Vendor to be a part of Warrior Cravings.

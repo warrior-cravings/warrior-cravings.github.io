@@ -17,7 +17,7 @@ Warrior Cravings is a web application that provides a chance to view the many di
 
 # Deployment
 The following link will connect you to our deployed application on Digital Ocean:
-[Warrior Cravings Application](http://164.92.94.176)
+[Warrior Cravings Application](https://warrior-cravings.xyz/)
 
 # Warrior Cravings Documentation
 

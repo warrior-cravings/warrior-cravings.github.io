@@ -111,6 +111,10 @@ See Milestone 1 here [Warrior Cravings GitHub Project Board M1](https://github.c
 
 See Milestone 2 here [Warrior Cravings GitHub Project Board M2](https://github.com/warrior-cravings/warrior-cravings/projects/2)
 
+## Milestone 3
+
+See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.com/warrior-cravings/warrior-cravings/projects/3)
+
 # Team and Contract
 
 Warrior Cravings is designed and developed by:

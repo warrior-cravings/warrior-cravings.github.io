@@ -39,7 +39,7 @@ Sign into your account or get a chance to register as either a User or Vendor to
 
 [//]: # (![]&#40;images/signup-page.png&#41;)
 
-<img src="images/mockups/">
+<img src="images/mockups/sign_in_page_new_updated">
 
 ## Admin Profile
 

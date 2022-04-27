@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [Documentation](#warrior-cravings-documentation)
+* [Developers Guide](#developers-guide)
 * [Milestones](#warrior-cravings-milestones)
 * [Team and Contract](#team-and-contract)
 
@@ -109,7 +110,7 @@ The first step to use Meteor is to install it which can be found here [How To In
 
 ## Second Step - Create A Local Copy of the Template
 
-The next step is to create a local copy of this template to your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then click on "Code" again to open it up with Github desktop to create a local copy. 
+The next step is to create a local copy of this template to your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then in your Github's Warrior-Cravings, click on "Code" again to open it up with Github desktop to create a local copy. 
 
 ## Third Step - Start The Web Page
 

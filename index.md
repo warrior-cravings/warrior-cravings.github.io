@@ -99,6 +99,26 @@ Add your menu items and locations to be added to the database so users can find 
 
 In the case of adding/removing menu items, you can easily edit your page to update your menu items for users to see.
 
+# Developers Guide
+
+This guide is more aspiring Meteor developers who seek to create something similar to this website or wish to go further beyond this current build.
+
+## First Step - Install Meteor
+
+The first step to use Meteor is to install it which can be found here [How To Install Meteor](https://docs.meteor.com/install.html).
+
+## Second Step - Create A Local Copy of the Template
+
+The next step is to create a local copy of this template to your computer. First go to our applications page, [Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code" button. Then clone the repo do your desktop. 
+
+## Third Step - Start The Web Page
+
+Once inside the repo, go into the app directory by using the command "cd app" and install libraries with ``` $ meteor npm install ``` then finally run ```$ meteor npm run start ```. You should then see your application at http://localhost:3000.
+
+
+
+
+
 # Warrior Cravings Milestones
 
 Track our progress as we develop Warrior Cravings!

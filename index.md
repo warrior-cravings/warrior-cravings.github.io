@@ -109,13 +109,11 @@ The first step to use Meteor is to install it which can be found here [How To In
 
 ## Second Step - Create A Local Copy of the Template
 
-The next step is to create a local copy of this template to your computer. First go to our applications page, [Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code" button. Then clone the repo do your desktop. 
+The next step is to create a local copy of this template to your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then click on "Code" again to open it up with Github desktop to create a local copy. 
 
 ## Third Step - Start The Web Page
 
-Once inside the repo, go into the app directory by using the command "cd app" and install libraries with ``` $ meteor npm install ``` then finally run ```$ meteor npm run start ```. You should then see your application at http://localhost:3000.
-
-
+Once inside the repo, go into the app directory by using the command ```cd app ``` and install libraries with ``` $ meteor npm install ``` then finally run ```$ meteor npm run start ```. You should then see your application at http://localhost:3000.
 
 
 

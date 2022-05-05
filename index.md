@@ -5,6 +5,7 @@
 * [Documentation](#warrior-cravings-documentation)
 * [Developers Guide](#developers-guide)
 * [Milestones](#warrior-cravings-milestones)
+* [Community Feedback](#community-feedback)
 * [Team and Contract](#team-and-contract)
 
 # Overview

@@ -117,7 +117,6 @@ The next step is to create a local copy of this template to your computer. First
 
 Once inside the repo, go into the app directory by using the command ```cd app ``` and install libraries with ``` $ meteor npm install ``` then finally run ```$ meteor npm run start ```. You should then see your application at http://localhost:3000.
 
-
 # Warrior Cravings Milestones
 
 Track our progress as we develop Warrior Cravings!

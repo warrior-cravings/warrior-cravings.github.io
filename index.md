@@ -81,10 +81,6 @@ View a list of all available Vendors and their menu items.
 
 <img src="images/mockups/vendors_userpage.png">
 
-#### View Today's Specials
-
-Get a chance to see the specials being served on campus today!
-
 ## Vendor Profile
 
 In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food to all the users.

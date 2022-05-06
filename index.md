@@ -137,6 +137,10 @@ See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.c
 
 # Community Feedback
 
+## Positive Feedback
+
+## Constructive Criticism
+
 # Team and Contract
 
 Warrior Cravings is designed and developed by:

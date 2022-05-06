@@ -67,8 +67,6 @@ In the User Profile, you are in a one-stop shop with different features to view 
 
 <img src="images/Screen Shot 2022-04-26 at 12.37.00 PM.png">
 
-<img src="images/mockups/userprofile_userpage.png">
-
 #### View Food Map
 
 Interact with a map of Campus containing all the different food options locations.

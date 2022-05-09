@@ -47,7 +47,7 @@ Sign into your account or get a chance to register as either a User or Vendor to
 
 In the Admin Profile, you have many different administrative features to help improve and maintain the application.
 
-<img src="images/Screen Shot 2022-04-26 at 12.36.47 PM.png">
+<img src="images/admin-profile.PNG">
 
 #### Add / Approve Vendor
 
@@ -60,6 +60,8 @@ Pending any circumstance where the Vendor and food option becomes unavailable, a
 #### View Vendors
 
 View the list of all Vendors, with an option to include/exlude archived Vendors.
+
+<img src="images/add-vendor.PNG">
 
 ## User Profile
 

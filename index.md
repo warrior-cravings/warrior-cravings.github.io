@@ -159,5 +159,4 @@ Warrior Cravings is designed and developed by:
 
 [Zachary Chaikin](https://github.com/zchaikin).
 
-The link to the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
-The link to our organization can be found [here](https://github.com/warrior-cravings)
+The link to our organization can be found [here](https://github.com/warrior-cravings) and the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)

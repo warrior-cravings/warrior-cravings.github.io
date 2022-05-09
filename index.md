@@ -81,6 +81,10 @@ View a list of all available Vendors and their menu items.
 
 <img src="images/mockups/vendors_userpage.png">
 
+### Feeling Hungry
+
+Click on this option to randomly generate places to eat when you feel hungry but do not know where to go.
+
 ## Vendor Profile
 
 In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food to all the users.

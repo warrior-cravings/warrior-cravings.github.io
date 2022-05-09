@@ -1,3 +1,5 @@
+# Warrior Cravings
+
 # Table of contents
 
 * [Overview](#overview)

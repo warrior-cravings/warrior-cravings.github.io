@@ -91,13 +91,13 @@ Click on this option to randomly generate places to eat when you feel hungry but
 
 In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food to all the users.
 
+<img src="images/vendors-home.PNG">
+
 #### Add Vendor Page
 
 Add your menu items and locations to be added to the database so users can find and eat your food!
 
-<img src="images/mockups/vendor-home_vendorpage.png">
-
-<img src="images/mockups/form_vendorpage.png">
+<img src="images/add-menu-item.PNG">
 
 #### Edit Vendors Page
 

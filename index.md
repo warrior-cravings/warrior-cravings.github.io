@@ -148,6 +148,8 @@ See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.c
 ## Constructive Criticism
 
 - I don't know if it's because I'm on an iPad but when I click on some of the vendors, my screen would go white and I would have to refresh my browser.
+- Many people will most likely use it on their phone, so maybe make it fit different webpage sizes.
+- Some features should be shown without requiring someone to sign up so people can see if they want to use the site or not.
 
 # Team and Contract
 

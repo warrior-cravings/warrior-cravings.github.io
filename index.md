@@ -67,23 +67,25 @@ View the list of all Vendors, with an option to include/exlude archived Vendors.
 
 In the User Profile, you are in a one-stop shop with different features to view the food options available.
 
-<img src="images/Screen Shot 2022-04-26 at 12.37.00 PM.png">
+<img src="images/user-home.PNG">
 
 #### View Food Map
 
 Interact with a map of Campus containing all the different food options locations.
 
-<img src="images/Screen Shot 2022-04-26 at 1.08.29 PM.png">
+<img src="images/user-locations.PNG">
 
 #### View Vendors List
 
 View a list of all available Vendors and their menu items.
 
-<img src="images/mockups/vendors_userpage.png">
+<img src="images/user-vendors-list.PNG">
 
 ### Feeling Hungry
 
 Click on this option to randomly generate places to eat when you feel hungry but do not know where to go.
+
+<img src="images/user-feeling-hungry.PNG">
 
 ## Vendor Profile
 

@@ -31,7 +31,7 @@ Before logging in, every user will start at the landing page and see a summary o
 
 [//]: # (![]&#40;images/landing-page.png&#41;)
 
-<img src="images/landingpageupdatedbig.png">
+<img src="images/landing-page-new.png">
 
 ## Sign in and Register
 

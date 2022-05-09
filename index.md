@@ -144,12 +144,14 @@ See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.c
 ## Positive Feedback
 
 - I like how everything is organized and neat. It's easy to find things on the site. I like how everything is easy to read, since the descriptions are short and sweet. I also appreciate how you added where each restaurant could be found and the maps to it—super helpful.
+- Very organized! Nice and simple desgin/layout makes the website easy to navigate.
 
 ## Constructive Criticism
 
 - I don't know if it's because I'm on an iPad but when I click on some of the vendors, my screen would go white and I would have to refresh my browser.
 - Many people will most likely use it on their phone, so maybe make it fit different webpage sizes.
 - Some features should be shown without requiring someone to sign up so people can see if they want to use the site or not.
+- Images on the vendor's list page should be relatively the same size to make it look more uniform
 
 # Team and Contract
 

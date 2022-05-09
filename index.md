@@ -41,7 +41,7 @@ Sign into your account or get a chance to register as either a User or Vendor to
 
 [//]: # (![]&#40;images/signup-page.png&#41;)
 
-<img src="images/mockups/after-landing.png">
+<img src="images/after-landing.png">
 
 ## Admin Profile
 

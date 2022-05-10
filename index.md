@@ -153,4 +153,4 @@ Warrior Cravings is designed and developed by:
 The link to the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
 
 # Build Status
-![ci-badge](https://github.com/warrior-cravings/warrior-cravings/workflows/ci-warrior-cravings/badge.svg)
+![ci-badge](https://github.com/warrior-cravings/warrior-cravings/workflows/warrior-cravings/badge.svg)

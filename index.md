@@ -75,7 +75,7 @@ In the User Profile, you are in a one-stop shop with different features to view 
 
 Interact with a map of Campus containing all the different food options locations.
 
-<img src="images/user-locations.PNG">
+<img src="images/final-location.PNG">
 
 #### View Vendors List
 

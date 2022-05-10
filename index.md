@@ -12,7 +12,7 @@
 
 # Overview
 
-Warrior Cravings is a web application that provides a chance to view the many different food choices on campus (Campus Center, Food Trucks, Paradise Palms, etc.). The following elements may be included in the web application:
+Warrior Cravings is a web application that provides a chance to view the many different food choices on campus (Campus Center, Food Trucks, Paradise Palms, etc.). Listed below are the elements included in the web application:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -25,7 +25,7 @@ The following link will connect you to our deployed application on Digital Ocean
 
 # Warrior Cravings Documentation
 
-The following section is a guide to the many capabilities and features of Warrior Cravings!
+The following section is a guide to many capabilities and features of Warrior Cravings!
 
 ## Landing Page
 
@@ -57,23 +57,23 @@ As an Admin, you can add/approve new Vendors to update the database as new food 
 
 #### Archive / Delete Vendor
 
-Pending any circumstance where the Vendor and food option becomes unavailable, an Admin can archive or delete the Vendor from the database.
+Pending any circumstance where the Vendor and food option becomes unavailable, an Admin can archive or delete the vendor from the database.
 
 #### View Vendors
 
-View the list of all Vendors, with an option to include/exclude archived Vendors.
+View the list of all vendors, with an option to include/exclude archived Vendors.
 
 <img src="images/add-vendor.PNG">
 
 ## User Profile
 
-In the User Profile, you are in a one-stop shop with different features to view the food options available.
+In the User Profile, you are in a one-stop shop with different features to view all food options available.
 
 <img src="images/user-home.PNG">
 
 #### View Food Map
 
-Interact with a map of the campus containing all the different food options locations.
+Interact with a map of campus containing all the different food options locations.
 
 <img src="images/final-location.PNG">
 
@@ -91,27 +91,23 @@ Click on this option to randomly generate places to eat when you feel hungry but
 
 ## Vendor Profile
 
-In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food with all the users.
+In the Vendor Profile (upon approval of the Admin), display and share your food with all the users.
 
-<img src="images/vendors-home.PNG">
+<img src="images/vendor-home.png">
 
-#### Add Vendor Page
+#### Add / Edit Vendor Page
 
-Add your Vendor profile to the database so users can find and eat your food!
+Add and edit your Vendor profile to the database so users are up to date and can find and eat your food!
 
 <img src="images/vendor-myvendor.png">
 
-#### Edit Vendors Page
-
-Edit your vendor page to update the database so users are always in sync with updates.
-
 #### View Menu Items
 
-View your menu items being displayed to the users.
+View your menu items on display to the users.
 
 <img src="images/vendor-menuitems.png">
 
-#### Add/Edit/Delete Menu Items
+#### Add / Edit / Delete Menu Items
 
 Add, edit, and delete menu items to your vendor page so users can be up to date and see all the different food choices to eat!
 
@@ -121,11 +117,11 @@ This guide is more for aspiring Meteor developers who seek to create something s
 
 ## First Step - Install Meteor
 
-The first step to using Meteor is to install it which can be found here [How To Install Meteor](https://docs.meteor.com/install.html).
+The first step to using meteor is to install it, which you can find here [How To Install Meteor](https://docs.meteor.com/install.html).
 
 ## Second Step - Create A Local Copy of the Template
 
-The next step is to create a local copy of this template on your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then in your Github's Warrior-Cravings, click on "Code" again to open it up with the Github desktop to create a local copy.
+The next step is to create a local copy of this template on your computer. First, go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu, click on "Use This Template" to create a copy to your Github. Then in your Github's Warrior-Cravings, click on "Code" again to open it up with the Github desktop to create a local copy.
 
 ## Third Step - Start The Web Page
 
@@ -161,7 +157,7 @@ See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.c
 
 ## Constructive Criticism
 
-- I don't know if it's because I'm on an iPad but when I click on some of the vendors, my screen would go white and I would have to refresh my browser.
+- I don't know if it's because I'm on an iPad, but when I click on some of the vendors, my screen goes white, and I would have to refresh my browser.
 - Many people will most likely use it on their phone, so maybe make it fit different webpage sizes.
 - Some features should be shown without requiring someone to sign up so people can see if they want to use the site or not.
 - Images on the vendor's list page should be relatively the same size to make it look more uniform.

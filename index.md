@@ -1,3 +1,5 @@
+# Warrior Cravings
+
 # Table of contents
 
 * [Overview](#overview)
@@ -5,6 +7,7 @@
 * [Documentation](#warrior-cravings-documentation)
 * [Developers Guide](#developers-guide)
 * [Milestones](#warrior-cravings-milestones)
+* [Community Feedback](#community-feedback)
 * [Team and Contract](#team-and-contract)
 
 # Overview
@@ -30,7 +33,7 @@ Before logging in, every user will start at the landing page and see a summary o
 
 [//]: # (![]&#40;images/landing-page.png&#41;)
 
-<img src="images/landingpageupdatedbig.png">
+<img src="images/landing-page-new.png">
 
 ## Sign in and Register
 
@@ -40,13 +43,13 @@ Sign into your account or get a chance to register as either a User or Vendor to
 
 [//]: # (![]&#40;images/signup-page.png&#41;)
 
-<img src="images/mockups/sign_in_page_new_updated.png">
+<img src="images/after-landing.PNG">
 
 ## Admin Profile
 
 In the Admin Profile, you have many different administrative features to help improve and maintain the application.
 
-<img src="images/Screen Shot 2022-04-26 at 12.36.47 PM.png">
+<img src="images/admin-profile.PNG">
 
 #### Add / Approve Vendor
 
@@ -60,41 +63,43 @@ Pending any circumstance where the Vendor and food option becomes unavailable, a
 
 View the list of all Vendors, with an option to include/exlude archived Vendors.
 
+<img src="images/add-vendor.PNG">
+
 ## User Profile
 
 In the User Profile, you are in a one-stop shop with different features to view the food options available.
 
-<img src="images/Screen Shot 2022-04-26 at 12.37.00 PM.png">
-
-<img src="images/mockups/userprofile_userpage.png">
+<img src="images/user-home.PNG">
 
 #### View Food Map
 
 Interact with a map of Campus containing all the different food options locations.
 
-<img src="images/Screen Shot 2022-04-26 at 1.08.29 PM.png">
+<img src="images/final-location.PNG">
 
 #### View Vendors List
 
 View a list of all available Vendors and their menu items.
 
-<img src="images/mockups/vendors_userpage.png">
+<img src="images/user-vendors-list.PNG">
 
-#### View Today's Specials
+### Feeling Hungry
 
-Get a chance to see the specials being served on campus today!
+Click on this option to randomly generate places to eat when you feel hungry but do not know where to go.
+
+<img src="images/user-feeling-hungry.PNG">
 
 ## Vendor Profile
 
 In the Vendor Profile (upon approval of the Admin), you get a chance to expose and share your food to all the users.
 
+<img src="images/vendors-home.PNG">
+
 #### Add Vendor Page
 
 Add your menu items and locations to be added to the database so users can find and eat your food!
 
-<img src="images/mockups/vendor-home_vendorpage.png">
-
-<img src="images/mockups/form_vendorpage.png">
+<img src="images/add-menu-item.PNG">
 
 #### Edit Vendors Page
 
@@ -110,13 +115,11 @@ The first step to use Meteor is to install it which can be found here [How To In
 
 ## Second Step - Create A Local Copy of the Template
 
-The next step is to create a local copy of this template to your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then in your Github's Warrior-Cravings, click on "Code" again to open it up with Github desktop to create a local copy. 
+The next step is to create a local copy of this template to your computer. First go to our applications page, [Warrior Cravings Github Page](https://github.com/warrior-cravings/warrior-cravings), then click on the green "Code". Once inside the dropdown menu click on "Use This Template" to create a copy to your Github. Then in your Github's Warrior-Cravings, click on "Code" again to open it up with Github desktop to create a local copy.
 
 ## Third Step - Start The Web Page
 
 Once inside the repo, go into the app directory by using the command ```cd app ``` and install libraries with ``` $ meteor npm install ``` then finally run ```$ meteor npm run start ```. You should then see your application at http://localhost:3000.
-
-
 
 # Warrior Cravings Milestones
 
@@ -136,6 +139,24 @@ See Milestone 2 here [Warrior Cravings GitHub Project Board M2](https://github.c
 
 See Milestone 3 here [Warrior Cravings GitHub Project Board M3](https://github.com/warrior-cravings/warrior-cravings/projects/3)
 
+# Community Feedback
+
+## Positive Feedback
+
+- I like how everything is organized and neat. It's easy to find things on the site. I like how everything is easy to read, since the descriptions are short and sweet. I also appreciate how you added where each restaurant could be found and the maps to it—super helpful.
+- Very organized! Nice and simple desgin/layout makes the website easy to navigate.
+- I like how the website is simple and informative especially the locations because I had no clue about where they are because I only ever go to the architecture building.
+- I like the feeling hungry option because I'm indecisive and can't decide what I want to eat.
+- I like how the vendors can add different menu items and update their own profiles.
+
+## Constructive Criticism
+
+- I don't know if it's because I'm on an iPad but when I click on some of the vendors, my screen would go white and I would have to refresh my browser.
+- Many people will most likely use it on their phone, so maybe make it fit different webpage sizes.
+- Some features should be shown without requiring someone to sign up so people can see if they want to use the site or not.
+- Images on the vendor's list page should be relatively the same size to make it look more uniform.
+- Maybe a few more pics for each vendor.
+
 # Team and Contract
 
 Warrior Cravings is designed and developed by:
@@ -150,7 +171,7 @@ Warrior Cravings is designed and developed by:
 
 [Zachary Chaikin](https://github.com/zchaikin).
 
-The link to the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
+The link to our organization can be found [here](https://github.com/warrior-cravings) and the Team Bonding & Team Contract Document can be found [here](https://docs.google.com/document/d/1SRTYNonslrtiFPJDW3MKqytMh0vnHxiC6MnLjCrtIrs/edit#)
 
 # Build Status
 ![ci-badge](https://github.com/warrior-cravings/warrior-cravings/workflows/warrior-cravings/badge.svg)
